@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad870969-82ea-4add-a51c-54988f93d836" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2o6kc2I7e3Jx7xO0RXhAB4G3HkG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.cuenta_regresiva.executor": "Run",
+    "Application.dowhile.executor": "Run",
+    "Application.ejer10.executor": "Run",
+    "Application.ejer11.executor": "Run",
+    "Application.ejer11_diferente_forma.executor": "Run",
+    "Application.ejer12.executor": "Run",
+    "Application.ejer14.executor": "Run",
+    "Application.ejer15.executor": "Run",
+    "Application.ejer16.executor": "Run",
+    "Application.ejer17.executor": "Run",
+    "Application.ejer18.executor": "Run",
+    "Application.ejer2.executor": "Run",
+    "Application.ejer3.executor": "Run",
+    "Application.ejer4.executor": "Run",
+    "Application.ejer5.executor": "Run",
+    "Application.ejer6.executor": "Run",
+    "Application.ejer7.executor": "Run",
+    "Application.ejer9.executor": "Run",
+    "Application.prueba.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/javi/Documentos/Javi/1DAM/PROGRAMACIÓN/PROGRAMACIÓN JAVA/Aula en la nube",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad870969-82ea-4add-a51c-54988f93d836" name="Changes" comment="" />
+      <created>1730197488682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730197488682</updated>
+      <workItem from="1730197489785" duration="4565000" />
+      <workItem from="1730227832773" duration="6000" />
+      <workItem from="1730231234464" duration="476000" />
+      <workItem from="1730293107507" duration="3560000" />
+      <workItem from="1730320229252" duration="5681000" />
+      <workItem from="1730391501270" duration="1399000" />
+      <workItem from="1730713152017" duration="7046000" />
+      <workItem from="1730747320029" duration="5080000" />
+      <workItem from="1730917522953" duration="101000" />
+      <workItem from="1731183425413" duration="838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

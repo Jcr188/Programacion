@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32c5b867-e622-4628-95f6-5afc40bc8df0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2oUIFngr6gOtLLePtxSJgkMrKKf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.Calculadora.executor": "Run",
+    "Application.Exadecimales.executor": "Run",
+    "Application.Factorial_de_un_numero.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.contador.executor": "Run",
+    "Application.contador_Par.executor": "Run",
+    "Application.intercambiar_valores.executor": "Run",
+    "Application.leer_5_numeros.executor": "Run",
+    "Application.puntuacion.executor": "Run",
+    "Application.strings.executor": "Run",
+    "Application.tiempo_en_minutos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/javi/Documentos/Javi/1DAM/PROGRAMACIÓN/PROGRAMACIÓN JAVA/Aula en la nube",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Factorial_de_un_numero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial_de_un_numero" />
+      <module name="Aula en la nube" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Factorial_de_un_numero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32c5b867-e622-4628-95f6-5afc40bc8df0" name="Changes" comment="" />
+      <created>1730917627308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730917627308</updated>
+      <workItem from="1730917628612" duration="3645000" />
+      <workItem from="1731184264961" duration="712000" />
+      <workItem from="1731263898536" duration="2433000" />
+      <workItem from="1731317289436" duration="5664000" />
+      <workItem from="1731419099829" duration="2567000" />
+      <workItem from="1731429740638" duration="1658000" />
+      <workItem from="1731432504212" duration="2809000" />
+      <workItem from="1731607248901" duration="2153000" />
+      <workItem from="1731664474636" duration="2820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="448b912f-ff80-4059-8877-079e187ca648" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nIoxfbPUdKkrqQfCcoq9nNk5g5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Calcular_iva.executor": "Run",
+    "Python.Contraseña_Correcta.executor": "Run",
+    "Python.Contraseña_segura.executor": "Run",
+    "Python.Diferentes_calculos.executor": "Run",
+    "Python.Nota_media.executor": "Run",
+    "Python.calcular_segundos.executor": "Run",
+    "Python.eee.executor": "Run",
+    "Python.ejer3.executor": "Run",
+    "Python.ejer6.executor": "Run",
+    "Python.ejer7.executor": "Run",
+    "Python.ejer_de_youtube.executor": "Run",
+    "Python.funciones.executor": "Run",
+    "Python.funciones_lambda.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.numero_impares.executor": "Run",
+    "Python.operaciones.executor": "Run",
+    "Python.salario.executor": "Run",
+    "Python.tabla_multiplicar.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DALTO PYTHON" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="448b912f-ff80-4059-8877-079e187ca648" name="Changes" comment="" />
+      <created>1728670198965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728670198965</updated>
+      <workItem from="1728670199993" duration="2265000" />
+      <workItem from="1728746980090" duration="12000" />
+      <workItem from="1728813705877" duration="1476000" />
+      <workItem from="1728817538278" duration="4266000" />
+      <workItem from="1728840504253" duration="8000" />
+      <workItem from="1728841201200" duration="4912000" />
+      <workItem from="1728846219760" duration="129000" />
+      <workItem from="1728847630495" duration="7434000" />
+      <workItem from="1728894815182" duration="384000" />
+      <workItem from="1729109577889" duration="3786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$Contraseña_Correcta.coverage" NAME="Contraseña_Correcta Coverage Results" MODIFIED="1728845770726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$ejer7.coverage" NAME="ejer7 Coverage Results" MODIFIED="1728852482152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$ejer3.coverage" NAME="ejer3 Coverage Results" MODIFIED="1728847933399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PROGRAMACIÓN PYTHON/Ejercicios.python2" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$funciones.coverage" NAME="funciones Coverage Results" MODIFIED="1728818985838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$ejer6.coverage" NAME="ejer6 Coverage Results" MODIFIED="1728850119269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PROGRAMACIÓN PYTHON/Ejercicios.python2" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$Diferentes_calculos.coverage" NAME="Diferentes_calculos Coverage Results" MODIFIED="1728853894379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$Calcular_iva.coverage" NAME="Calcular_iva Coverage Results" MODIFIED="1728818933161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$tabla_multiplicar.coverage" NAME="tabla_multiplicar Coverage Results" MODIFIED="1728849929580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$operaciones.coverage" NAME="operaciones Coverage Results" MODIFIED="1728854200291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PROGRAMACIÓN PYTHON/Ejercicios.python2" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$salario.coverage" NAME="salario Coverage Results" MODIFIED="1728841582705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$calcular_segundos.coverage" NAME="calcular_segundos Coverage Results" MODIFIED="1728844356935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$main.coverage" NAME="main Coverage Results" MODIFIED="1728854318420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PROGRAMACIÓN PYTHON/Ejercicios.python2" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$numero_impares.coverage" NAME="numero_impares Coverage Results" MODIFIED="1728673398144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$funciones_lambda.coverage" NAME="funciones_lambda Coverage Results" MODIFIED="1728841259269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$eee.coverage" NAME="eee Coverage Results" MODIFIED="1728849720994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$Contraseña_segura.coverage" NAME="Contraseña_segura Coverage Results" MODIFIED="1728850743632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$ejer_de_youtube.coverage" NAME="ejer_de_youtube Coverage Results" MODIFIED="1729116371904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DALTO_PYTHON$Nota_media.coverage" NAME="Nota_media Coverage Results" MODIFIED="1728815051780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
