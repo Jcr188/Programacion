@@ -1,5 +1,0 @@
-print ('19/09/2024')
-print ('Me siento regular')
-print ('Aprender a programar')
-print ('CARTITA PARA EL FUTURO')
-print ('Recemos para que el ciclo no cueste tanto')
